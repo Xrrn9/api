@@ -22,45 +22,5 @@
         "itemRating": "5.0",
         "itemNumDownload": "69",
         "itemNumViews": "151"
-    },
-    {
-        "itemImageUrl": "https://i.ibb.co/vs0fx6s/30ea78e8656e.jpg",
-        "itemTitle": "Hex",
-        "itemDescription": "Hex, a warlock of great power, bends the elements to his will.",
-        "itemRating": "4.8",
-        "itemNumDownload": "626",
-        "itemNumViews": "2.3K"
-    },
-    {
-        "itemImageUrl": "https://i.ibb.co/GpvT3Qj/8f4ebdbac658.jpg",
-        "itemTitle": "Quiver",
-        "itemDescription": "Quiver, an agile archer, strikes her target with precision.",
-        "itemRating": "4.6",
-        "itemNumDownload": "971",
-        "itemNumViews": "3.1K"
-    },
-    {
-        "itemImageUrl": "https://i.ibb.co/D1BcXBP/014787dc4894.jpg",
-        "itemTitle": "Shade",
-        "itemDescription": "Shade, an assassin of skill, lurks silently in the shadows.",
-        "itemRating": "4.5",
-        "itemNumDownload": "229",
-        "itemNumViews": "726"
-    },
-    {
-        "itemImageUrl": "https://i.ibb.co/D4N4cJ1/3e96c6a0071c.jpg",
-        "itemTitle": "Noble",
-        "itemDescription": "Noble, the princely hero, seeks justice for all his subjects.",
-        "itemRating": "4.1",
-        "itemNumDownload": "2.1K",
-        "itemNumViews": "39K"
-    },
-    {
-        "itemImageUrl": "https://i.ibb.co/tzgrQ0V/4e73e02b2f5a.jpg",
-        "itemTitle": "Blaze",
-        "itemDescription": "Blaze, the fierce warrior, charges into battle with fiery passion.",
-        "itemRating": "4.9",
-        "itemNumDownload": "8K",
-        "itemNumViews": "56K"
     }
 ]
