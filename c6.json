@@ -1,6 +1,7 @@
 [
     {
         "itemImageUrl": "https://i.ibb.co/5GQvtYR/1e3688c03bfa.jpg",
+        "itemZipUrl": "https://getsamplefiles.com/download/zip/sample-1.zip",
         "itemTitle": "Cavecrusher",
         "itemDescription": "Cavecrusher, a hulking brute with the strength to shatter mountains. This beast roams the deepest caverns, seeking out any intruders with its massive stone fists.",
         "itemRating": "4.9",
@@ -9,6 +10,7 @@
     },
     {
         "itemImageUrl": "https://i.ibb.co/q5mfHKm/7e67cabbb750.jpg",
+        "itemZipUrl": "https://getsamplefiles.com/download/zip/sample-1.zip",
         "itemTitle": "Skyterror",
         "itemDescription": "Skyterror, a fearsome aerial predator that rules the skies. With wings that blot out the sun and talons that can tear through steel, it strikes fear into all who dare look up.",
         "itemRating": "4.4",
