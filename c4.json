@@ -1,6 +1,7 @@
 [
     {
         "itemImageUrl": "https://i.ibb.co/jVHtzWC/88eb58f2cbb3.jpg",
+        "itemZipUrl": "https://getsamplefiles.com/download/zip/sample-1.zip",
         "itemTitle": "Enigma",
         "itemDescription": "Enigma, a sorcerer shrouded in mystery, wields untold power.",
         "itemRating": "4.1",
@@ -9,6 +10,7 @@
     },
     {
         "itemImageUrl": "https://i.ibb.co/BcLXyxb/bd60c13a1628.jpg",
+        "itemZipUrl": "https://getsamplefiles.com/download/zip/sample-1.zip",
         "itemTitle": "Crown",
         "itemDescription": "Crown, a noble prince, seeks to uphold the realm's honor.",
         "itemRating": "3.9",
