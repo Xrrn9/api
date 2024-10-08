@@ -1,6 +1,7 @@
 [
     {
         "itemImageUrl": "https://i.ibb.co/HPR1Czk/ca8ba5baf137.jpg",
+        "itemZipUrl": "https://getsamplefiles.com/download/zip/sample-1.zip",
         "itemTitle": "Arcane",
         "itemDescription": "Arcane, a mystical sorcerer, channels enigmatic powers.",
         "itemRating": "4.9",
@@ -9,6 +10,7 @@
     },
     {
         "itemImageUrl": "https://i.ibb.co/D8SB9SL/d4dba21454aa.jpg",
+        "itemZipUrl": "https://getsamplefiles.com/download/zip/sample-1.zip",
         "itemTitle": "Swift",
         "itemDescription": "Swift, a nimble assassin, moves like a shadow in the night.",
         "itemRating": "4.2",
