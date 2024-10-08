@@ -1,6 +1,7 @@
 [
     {
         "itemImageUrl": "https://i.ibb.co/pZ8mw59/350689c19963.jpg",
+        "itemZipUrl": "https://getsamplefiles.com/download/zip/sample-1.zip",
         "itemTitle": "Regal",
         "itemDescription": "Regal, a prince of virtue, rules with wisdom and kindness.",
         "itemRating": "4.5",
@@ -9,6 +10,7 @@
     },
     {
         "itemImageUrl": "https://i.ibb.co/cDdgkCJ/c0e25ff7f4a5.jpg",
+        "itemZipUrl": "https://getsamplefiles.com/download/zip/sample-1.zip",
         "itemTitle": "Harmony",
         "itemDescription": "Harmony, a healer with a gentle touch, mends broken hearts.",
         "itemRating": "3.9",
@@ -17,6 +19,7 @@
     },
     {
         "itemImageUrl": "https://i.ibb.co/5nprqBz/f0c85d1e2693.jpg",
+        "itemZipUrl": "https://getsamplefiles.com/download/zip/sample-1.zip",
         "itemTitle": "Alaric",
         "itemDescription": "Alaric, the noble prince, dreams of peace for all lands.",
         "itemRating": "5.0",
