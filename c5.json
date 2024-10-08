@@ -1,6 +1,7 @@
 [
     {
         "itemImageUrl": "https://i.ibb.co/g34gzjJ/38459a636a89.jpg",
+        "itemZipUrl": "https://getsamplefiles.com/download/zip/sample-1.zip",
         "itemTitle": "Rockhide",
         "itemDescription": "Rockhide, a steadfast guardian with skin as tough as stone.",
         "itemRating": "4.9",
@@ -9,6 +10,7 @@
     },
     {
         "itemImageUrl": "https://i.ibb.co/7jyPPQ4/2c8aa151f03a.jpg",
+        "itemZipUrl": "https://getsamplefiles.com/download/zip/sample-1.zip",
         "itemTitle": "Soulreaver",
         "itemDescription": "Soulreaver, a spectral warrior who harvests the souls of the wicked.",
         "itemRating": "4.0",
