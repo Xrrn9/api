@@ -1,0 +1,68 @@
+[
+    {
+        "image": "https://images.bedrockexplorer.com/minecraft-marketplace-content/cyclone-safari-world-thumbnail-25f50c36234ae57b-800.jpg",
+        "zipUrl": "https://getsamplefiles.com/download/zip/sample-1.zip",
+        "title": "Cyclone Safari",
+        "description": "Visit Inspiration Island, a floating theme park world filled with creative challenges. Whether you are new to Creative Mode or just need a little extra inspiration, a visit here sets you on the path to craft your own groundbreaking worlds!",
+        "stars": "5",
+        "ratingNum": "5",
+        "itemNumDownload": "1.1K",
+        "itemNumViews": "4K",
+        "itemSize": "5.13 Mb"
+    },
+    {
+        "image": "https://images.bedrockexplorer.com/minecraft-marketplace-content/minecraft-cybersafe-home-sweet-hmm-thumbnail-dbad9fe0b5e6ef67-800.jpg",
+        "zipUrl": "https://getsamplefiles.com/download/zip/sample-1.zip",
+        "title": "CyberSafe",
+        "description": "Did you know that humans have been living in space for almost 20 years? Minecraft is celebrating this historic milestone in partnership with NASA with a new International Space Station world for you to explore.",
+        "stars": "4",
+        "ratingNum": "4",
+        "itemNumDownload": "873",
+        "itemNumViews": "2K",
+        "itemSize": "1.32 Mb"
+    },
+     {
+        "image": "https://images.bedrockexplorer.com/minecraft-marketplace-content/minecraft-builders-and-biomes-thumbnail-5d10c56ef090e253-800.jpg",
+        "zipUrl": "https://getsamplefiles.com/download/zip/sample-1.zip",
+        "title": "Builders & Biomes",
+        "description": "These crazy skins have blocks and mobs for heads! Carry around a cute lil creeper, explosive TNT, or wear a slime on your head like a hat! What's in the '?' block you carry around?",
+        "stars": "4",
+        "ratingNum": "4",
+        "itemNumDownload": "3K",
+        "itemNumViews": "7K",
+        "itemSize": "4.87 Mb"
+    },
+     {
+        "image": "https://images.bedrockexplorer.com/minecraft-marketplace-content/minecraft-purple-parrot-party-palace-thumbnail-85e5f8ab4bfabde8-800.jpg",
+        "zipUrl": "https://getsamplefiles.com/download/zip/sample-1.zip",
+        "title": "Purple Parrot",
+        "description": "Welcome to Farm Life. Experience the challenging life of a farmer. Tend your fields, trade your harvest for better farming equipment, produce food, and become the best farmer in the world!",
+        "stars": "3",
+        "ratingNum": "3",
+        "itemNumDownload": "229",
+        "itemNumViews": "726",
+        "itemSize": "1.93 Mb"
+    },
+       {
+        "image": "https://images.bedrockexplorer.com/minecraft-marketplace-content/razzleberries-way-of-the-bee-thumbnail-0f72efd7eda8068a-800.jpg",
+        "zipUrl": "https://getsamplefiles.com/download/zip/sample-1.zip",
+        "title": "Way of the Bee",
+        "description": "Welcome to Farm Life. Experience the challenging life of a farmer. Tend your fields, trade your harvest for better farming equipment, produce food, and become the best farmer in the world!",
+        "stars": "4",
+        "ratingNum": "4",
+        "itemNumDownload": "229",
+        "itemNumViews": "726",
+        "itemSize": "7.3 Mb"
+    },
+       {
+        "image": "https://images.bedrockexplorer.com/minecraft-marketplace-content/cypress-games-summer-gift-thumbnail-8e5cc5324327c54d-800.jpg",
+        "zipUrl": "https://getsamplefiles.com/download/zip/sample-1.zip",
+        "title": "Summer Gift",
+        "description": "Welcome to Farm Life. Experience the challenging life of a farmer. Tend your fields, trade your harvest for better farming equipment, produce food, and become the best farmer in the world!",
+        "stars": "5",
+        "ratingNum": "5",
+        "itemNumDownload": "229",
+        "itemNumViews": "726",
+        "itemSize": "8.63 Mb"
+    }
+]
