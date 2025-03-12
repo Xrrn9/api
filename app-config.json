@@ -1,6 +1,6 @@
 {
   "adNetworkConfig": {
-    "yodoAppKey": "YOUR_REMOTE_APP_KEY_HERE",
+    "yodoAppKey": "p4lbd6aofJ",
     "yodoUserAgreementUrl": "https://example.com/user-agreement",
     "yodoPrivacyPolicyUrl": "https://example.com/privacy-policy"
   }
